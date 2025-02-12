@@ -21,6 +21,7 @@
 > What import alias would you like configured? ...0/*
 
 ## Instalando SHADCN ao projeto
+Pare a execução do projeto. Então 
 [Acesse a guia de instalação do SHADCN usando NEXT](https://ui.shadcn.com/docs/installation/next)
 Após, selecione em **1. Create project**, a aba _npm_ e copie o código para instalar o shadcn ao projeto:
 `npx shadcn@latest init`
@@ -32,4 +33,13 @@ Após, selecione em **1. Create project**, a aba _npm_ e copie o código para in
 > css variables: yes
 
 > dependency issues react-19: use --force
+
+## SHADCN - criando um componente button
+[Acesse a guia _Components_ e, entao, localize o componente **button**, no menu lateral.](https://ui.shadcn.com/docs/components/button)
+Após, copie o código para instalar o componente **button**, conforme a seguir: 
+`npx shadcn@latest add button`
+
+> dependency issues react-19: use --force
+
+
 
