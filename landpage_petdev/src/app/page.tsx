@@ -1,8 +1,9 @@
+import { Hero } from "./_components/hero";
 
 export default function Home(){
   return (
     <main>
-      <h1>PAGINA TESTE</h1>
+      <Hero />
     </main>
   )
 }
