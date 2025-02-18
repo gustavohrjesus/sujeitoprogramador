@@ -41,5 +41,9 @@ Após, copie o código para instalar o componente **button**, conforme a seguir:
 
 > dependency issues react-19: use --force
 
+## PHOSPHOR-ICONS - ADICIONANDO ICONES (WHATSAPP,...) NO PROJETO
+[PHOSPHOR-ICONS](https://phosphoricons.com/)
+`npm install @phosphor-icons/react`
+
 
 
