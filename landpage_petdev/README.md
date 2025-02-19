@@ -45,5 +45,6 @@ Após, copie o código para instalar o componente **button**, conforme a seguir:
 [PHOSPHOR-ICONS](https://phosphoricons.com/)
 `npm install @phosphor-icons/react`
 
-
-
+## EMBLA CAROUSEL - Biblioteca de carrossel
+[EMBLA-CAROUSEL](https://www.embla-carousel.com/)
+`npm install embla-carousel-react --force`
